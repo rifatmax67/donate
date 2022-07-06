@@ -6,7 +6,7 @@ body {
 .header {
     padding: 50px;
     background-image: url(images/head1.jpg);
-    height: 50%;
+    height: 30%;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,8 +15,17 @@ body {
 }
 
 .ttext {
-    padding: 60px;
+    padding: 100px;
     text-align: center;
     color: whitesmoke;
     font-size: 20px;
+}
+
+.btn {
+    padding: 10px 25px;
+    border: none;
+    text-decoration: none;
+    border-radius: 10px;
+    background-image: linear-gradient(#ac0000, #da2417b9);
+    color: #fff;
 }
